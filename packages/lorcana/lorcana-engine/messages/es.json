@@ -50,7 +50,7 @@
   "lorcana.effect.cancelled": "Efecto de {sourceCardId} cancelado ({cause}).",
   "lorcana.outcome.combatDamage": "{attackerId} infligio {attackerDamage} de daño a {defenderId}. {defenderId} infligio {defenderDamage} de daño a {attackerId}.",
   "lorcana.outcome.effectDamage": "{sourceId} infligio {amount} de daño a {targetId}.",
-  "lorcana.outcome.damageMoved": "Moved {amount} damage from {sourceId} to {targetId}.",
+  "lorcana.outcome.damageMoved": "Movió {amount} de daño de {sourceId} a {targetId}.",
   "lorcana.outcome.damagePrevented": "{targetId} no recibio dano — {amount} de dano fue prevenido.",
   "lorcana.outcome.cardBanished": "{cardId} fue desterrado.",
   "lorcana.outcome.cardsDrawn": "Robo {amount} carta(s).",
