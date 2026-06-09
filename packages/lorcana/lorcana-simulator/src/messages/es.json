@@ -748,7 +748,7 @@
   "sim.adapter.reason.noOpposingCharactersInPlay": "No hay personajes rivales en juego.",
   "sim.adapter.reason.setupRequiresPlayerView": "Los movimientos de preparación requieren una vista del jugador.",
   "sim.adapter.reason.missingChooseFirstPlayerTarget": "Falta el jugador objetivo para elegir WhoGoesFirst.",
-  "sim.adapter.reason.cardsToMulliganArrayRequired": "cardsToMulligan debe ser una serie de ID de cartas.",
+  "sim.adapter.reason.cardsToMulliganArrayRequired": "cardsToMulligan debe ser un array de ID de cartas.",
   "sim.adapter.reason.composeMoveInputFailed": "No se pudo redactar la entrada de movimiento",
   "sim.adapter.reason.unableComposeSetupMoveInput": "No se puede componer la entrada de movimiento de configuración.",
   "sim.adapter.defaultCardLabel": "{playerLabel} {zoneLabel} carta",
